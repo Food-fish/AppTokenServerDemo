@@ -1,0 +1,7 @@
+{
+"AccessKeyID" : "LTAIcK8YxfNT0YkY",
+"AccessKeySecret" : "ta705nYHkOVPGlAPTMQTBnNllVOEgw",
+"RoleArn" : "acs:ram::1354996653471302:role/aliyundmsdefaultrole",
+"TokenExpireTime" : "900",
+"PolicyFile": "policy/all_policy.txt"
+}
